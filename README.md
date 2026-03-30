@@ -4,4 +4,4 @@
 
 ### <img src="img/PNG/2.png" style="width: 10rem" /> Удобный режим работы.
 
-## <img src="img/PNG/3.png" style="width: 10rem" /> Опытные наставники.
+### <img src="img/PNG/3.png" style="width: 10rem" /> Опытные наставники.
