@@ -6,6 +6,7 @@
 ***
 
 ### <img src="img/PNG/3.png" style="width: 10rem" /> Опытные наставники.
+***
 
 ###  <img src="img/PNG/4.png" style="width: 10rem" /> Демократичные цены
 ***
